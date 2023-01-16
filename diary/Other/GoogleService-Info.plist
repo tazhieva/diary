@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>109645061421-q4lkomfirj18pravvo8nb6sld7cv5qa3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.109645061421-q4lkomfirj18pravvo8nb6sld7cv5qa3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfW6dajI8PFomUve8yDmW_-yppymIwnKA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>109645061421</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>akma.diary</string>
+	<key>PROJECT_ID</key>
+	<string>diary-ios-9dc95</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diary-ios-9dc95.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:109645061421:ios:c61dd04cc6ce2a31ad07a4</string>
+</dict>
+</plist>
